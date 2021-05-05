@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my OnePlus 7 Series Kernel
+- 🌱 I’m currently learning Go and PHP
+- 💬 Ask me about anything OOP related
+- 📫 How to reach me: zlatan.radovanovic@fet.ba
+- ⚡ Fun fact: I have a love-hate relationship with Web development
+
 <!--
 **nem0-z/nem0-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
