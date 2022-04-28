@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my OnePlus 7 Series Kernel
+- 🔭 I’m currently working on my OnePlus 7 Series Kernel (personal) and developing projects that offer PBX contact center solution (Bicom Systems)
 - 💬 Ask me anything
 - 📫 How to reach me: zlatan.radovanovic@fet.ba
 - ⚡ Fun fact: I have a love-hate relationship with Web development
