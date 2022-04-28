@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my OnePlus 7 Series Kernel
-- 🌱 I’m currently learning Go and Rust
-- 💬 Ask me about anything OOP related
+- 💬 Ask me anything
 - 📫 How to reach me: zlatan.radovanovic@fet.ba
 - ⚡ Fun fact: I have a love-hate relationship with Web development
 
